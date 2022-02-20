@@ -1,0 +1,8 @@
+sq tube 1.5x1.5x3/16,3.56
+sq tube 1.5x1.5x11ga,2.8
+sq tube 1x1x11ga,2.01
+sq tube 3x3x11ga,6.31
+sq tube 3x1x11ga,4.25
+sq tube 3x1.5x11ga,4.61
+sq tube 4x3x.25,11.65
+welds,1
